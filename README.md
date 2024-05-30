@@ -1,2 +1,2 @@
 # AI_experiment_source_code
-人工智能实验使用的数据集和实验源码
+人工智能实验源码
